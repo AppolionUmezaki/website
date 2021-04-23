@@ -1,4 +1,1 @@
-<!DOCTYPE html>
-<head>
-Хмммм..
-</head>
+так.
